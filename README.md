@@ -5,6 +5,7 @@ This is an Android IME keyboard for BlackBerry Passport running Android 11
 * Touch gestures and such on the Passport are not supported
 * Only English is supported. (I gave up on making other languages, waiting for contributions from those who can implement them)
 * Compatible with Android 11(API 30) and above
+* **Keep the virtual keyboard enabled** when selecting the keyboard
 
 ## Implemented features
 * Shift function (uppercase)
