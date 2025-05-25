@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BBKeyboard</string>
+
+
+    <string name="ime_name">BBKeyboard</string>
+    <string name="ime_subtype">English (US)</string>
+    <string name="btn_enable_ime">1. 입력기 활성화하러 가기</string>
+    <string name="btn_select_ime">2. 키보드 선택하러 가기</string>
+
+</resources>
